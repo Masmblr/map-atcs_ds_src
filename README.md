@@ -53,10 +53,10 @@ Some textures I have drawn for the map: </br>
 [<img src="meta/preview_textures/21.jpg" width="200"/>](meta/preview_textures/21.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 01/07/2017  | stable | :x:        |     
-| 1.1     | 29/07/2017  | final | [💾](https://github.com/Masmblr/map-ATCS_DS_src/releases/tag/v1.1) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0     | 01/07/2017  | stable |
+| 1.1     | 29/07/2017  | final |
 
 ## How-To
 **Binary**:
@@ -177,7 +177,7 @@ textures\atcs_ds\material_sound_01.jpg <sup>[1](#Credit-1)</sup>
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: Attribution-NonCommercial-ShareAlike 4.0 International \
 (See "LICENSE" file for more Informations.)
