@@ -56,7 +56,7 @@ Some textures I have drawn for the map: </br>
 | Version: | Date:        | Status: |
 | ------- | ------------- | ------: |
 | 1.0     | 01/07/2017  | stable |
-| 1.1     | 29/07/2017  | final |
+| 1.1     | 29/07/2017  | release |
 
 ## How-To
 **Binary**:
