@@ -1,0 +1,99 @@
+ATCS_DS Legal Information File
+https://github.com/Masmblr, masmblr@gmail.com
+===================================
+
+ASSETS
+======
+
+This is a complete list of all media assets included in this project, along with their respective authors and license information.
+Derivative files are marked with (modified by …) and retain the original license unless otherwise noted.
+
+
+Assets by Matthias Peters (Masmblr) © 2013 – 2025 
+License: CC BY-NC-SA 4.0 (see docs/licenses/CreativeCommons_CC-NC-SA_4.0.txt)
+----
+.gitignore
+.gitmodules
+.gitattributes
+LICENSE
+README.md
+merge_deps.ps1
+merge_deps.sh
+docs/images/1.jpg
+docs/images/10.jpg
+docs/images/11.jpg
+docs/images/12.jpg
+docs/images/13.jpg
+docs/images/14.jpg
+docs/images/15.jpg
+docs/images/16.jpg
+docs/images/17.jpg
+docs/images/18.jpg
+docs/images/19.jpg
+docs/images/2.jpg
+docs/images/20.jpg
+docs/images/3.jpg
+docs/images/4.jpg
+docs/images/5.jpg
+docs/images/6.jpg
+docs/images/7.jpg
+docs/images/8.jpg
+docs/images/9.jpg
+docs/images/comparison_01.jpg
+docs/images/comparison_01.psd
+docs/images/comparison_02.jpg
+docs/images/comparison_03.jpg
+docs/images/header.jpg
+src/levelshots/atcs_ds.jpg
+src/scripts/atcs_ds.arena
+src/scripts/atcs_ds.shader
+src/scripts/shaderlist.txt
+src/textures/atcs_ds/base_sign_aliens.jpg
+src/textures/atcs_ds/base_sign_aliens.kra
+src/textures/atcs_ds/base_sign_humans.jpg
+src/textures/atcs_ds/base_sign_humans.kra
+src/textures/atcs_ds/base_sign_screen_blue.jpg
+src/textures/atcs_ds/base_sign_screen_red.jpg
+src/textures/atcs_ds/ds_banner_blue.tga
+src/textures/atcs_ds/ds_banner_red.tga
+src/textures/atcs_ds/pipe_01.jpg
+src/textures/atcs_ds/sfx_01.jpg
+src/textures/atcs_ds/sfx_05.jpg
+src/textures/atcs_ds/sfx_05_a.jpg
+src/textures/atcs_ds/sfx_05_h.jpg
+src/textures/atcs_ds/sfx_detail.jpg
+
+
+Assets by MegaKosan
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/env/atcs_ds/skybox_bk.jpg
+src/env/atcs_ds/skybox_dn.jpg
+src/env/atcs_ds/skybox_ft.jpg
+src/env/atcs_ds/skybox_lf.jpg
+src/env/atcs_ds/skybox_rt.jpg
+src/env/atcs_ds/skybox_up.jpg
+
+
+Assets by Oblivion
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/textures/atcs_ds/logo_ds.jpg (modified by Masmblr)
+
+
+Assets by Nicolas "jex" Jansens
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/maps/atcs_ds.map (modified by Masmblr, based on original A.T.C.S)
+
+
+Assets by NLM
+License: CC BY-NC 4.0 (see docs/licenses/CreativeCommons_CC-BY-NC-4.0.txt)
+----
+src/sounds/atcs_ds/onsound.wav (modified by Masmblr)
+
+
+Assets by NLM
+License: CC0 (see docs/licenses/CreativeCommons_CC0_1.0.txt)
+----
+src/sounds/atcs_ds/sum.wav (modified by Masmblr)
