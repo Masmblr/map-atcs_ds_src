@@ -19,7 +19,7 @@
 
 ## Introduction
 ATCS DS is a game level for the open source game [Tremulous](https://github.com/darklegion/tremulous/).
-To showcase my ([mas02](https://github.com/Masmblr/mas02-Texture-Set)) Texture Set, I decided to retexture the famous Advanced Tactical Combat Simulator. This project was an attempt to apply the experience I gained with Arena DS to this map.
+To showcase my ([mas02](https://github.com/Masmblr/mas02-Texture-Set)) Texture Set, I decided to retexture the famous Advanced Tactical Combat Simulator (by Nicolas "jex" Jansens). This project was an attempt to apply the experience I gained with Arena DS to this map.
 
 ## Screenshots
 <p align="left">
